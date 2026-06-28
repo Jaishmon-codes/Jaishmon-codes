@@ -1,7 +1,14 @@
-# Building software that matters.
+# 👋 Hey, I'm Jaishmon
+### Turning ideas into reliable software.
 
-Hi, I'm Jaishmon 👋
+Computer Science student passionate about designing and building software that solves real-world problems.
 
-Computer Science student passionate about transforming ideas into scalable software.
+Every project in this GitHub reflects my commitment to learning software engineering by building reliable, production-quality applications.
 
-Every project I build is another step toward becoming a software engineer capable of solving real-world problems through technology.
+## 👨‍💻 Engineering Profile
+
+- 🎓 Computer Science student focused on practical software engineering.
+- 🏗️ Building projects across Blockchain, AI, Cybersecurity, ERP, and Full-Stack Development.
+- ⚙️ Interested in clean architecture, secure systems, and scalable application design.
+- 🚀 Enjoy taking ideas from concept → architecture → implementation → deployment.
+- 📚 Learning continuously through real-world projects and open-source development.
