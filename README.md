@@ -48,3 +48,17 @@ A blockchain-powered assignment submission and verification system that protects
 **Tech Stack:** Solidity • Ethereum
 
 ➡️ Repository: https://github.com/Jaishmon-codes/Assignment-Vault
+
+## 🛠️ Tech Stack
+
+### Languages
+Python • Java • JavaScript • Solidity • SQL
+
+### Web Development
+HTML • CSS • Node.js
+
+### Blockchain
+Ethereum • Solidity
+
+### Tools
+Git • GitHub • VS Code • Linux
