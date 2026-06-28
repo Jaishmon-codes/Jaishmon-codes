@@ -62,3 +62,11 @@ Ethereum • Solidity
 
 ### Tools
 Git • GitHub • VS Code • Linux
+
+## 🚧 Currently Building
+
+- 🤖 **Jarvis AI Assistant** – A local AI assistant with voice interaction, automation, and LLM integration.
+- 🚗 **Vehicle Tracking System** – Real-time vehicle monitoring and fleet management platform.
+- 🏢 **ERP Dashboard** – Enterprise resource planning system for business operations and analytics.
+- 🌐 **Personal Portfolio Website** – Showcasing projects, technical skills, and engineering journey.
+- 🛡️ **Cybersecurity Toolkit** – Practical security tools and utilities for learning and ethical security testing.
